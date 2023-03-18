@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Movies Saturday</string>
+    <string name="str_titulo">Title</string>
+    <string name="str_cerrar">Close</string>
+    <string name="str_bienvenido">Welcome</string>
+</resources>
